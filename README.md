@@ -14,4 +14,4 @@
 - Folosirea unor clase generale ce tin de marimea fontului care fac repetarea anumitor linii inutila
 - Respectarea denumirii BEM (am folosit ceva similar insa nu tocmai BEM)
 
-### PS: Am construit acest model de site pentu a-mi demonstra abilitatile de Front-End Developer in devenire, nu intentionez sa fur drepturi de autor. Site-ul original se poate gasi la https://www.baza7.ro/blog/ 
+### Am construit acest model de site pentu a-mi demonstra abilitatile de Front-End Developer in devenire, nu intentionez sa fur drepturi de autor. Site-ul original se poate gasi la https://www.baza7.ro/blog/ 
